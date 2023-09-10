@@ -26,8 +26,8 @@ namespace HNGx.Controllers
                 }
 
                 var assembly = System.Reflection.Assembly.GetExecutingAssembly();
-                var codeFileUrl = "https://github.com/Tope-stack/HngXTask1/blob/master/Controllers/InfoController.cs";
-                var sourceCodeUrl = "https://github.com/Tope-stack/HngXTask1";
+                var codeFileUrl = "https://https://github.com/Moyosof/HNGxProjectOne/blob/main/Controllers/SlackUpdateController.cs";
+                var sourceCodeUrl = "https://github.com/Moyosof/HNGxProjectOne";
 
                 var response = new
                 {
